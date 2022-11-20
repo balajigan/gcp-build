@@ -1,3 +1,3 @@
 FROM alpine
-COPY start.sh
+COPY start.sh /
 CMD ["/start.sh"]
