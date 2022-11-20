@@ -11,6 +11,7 @@ steps:
   args:
   - 'run'
   - 'deploy'
+  - 'MICROSERVICE'
   - '--image'
   - 'gcr.io/$PROJECT_ID/gcp-build'
   - '--region'
