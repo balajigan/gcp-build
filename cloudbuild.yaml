@@ -14,3 +14,4 @@ images:
   - '--platform'
   - 'managed'
   - '--allow-unauthenticated'
+  
